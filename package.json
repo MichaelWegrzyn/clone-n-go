@@ -1,0 +1,31 @@
+{
+  "name": "clone-n-go",
+  "version": "1.0.0",
+  "description": "Static site boilerplate",
+  "main": "index.js",
+  "author": "Michael Wegrzyn",
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^6.7.7",
+    "browser-sync": "^2.18.8",
+    "css-mqpacker": "^5.0.1",
+    "cssnano": "^3.10.0",
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-clean-css": "^3.0.4",
+    "gulp-concat": "^2.6.1",
+    "gulp-deporder": "^1.1.0",
+    "gulp-htmlclean": "^2.7.14",
+    "gulp-imagemin": "^3.2.0",
+    "gulp-newer": "^1.3.0",
+    "gulp-postcss": "^6.4.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.5.1",
+    "gulp-strip-debug": "^1.1.0",
+    "gulp-uglify": "^2.1.2",
+    "gulp-util": "^3.0.8",
+    "node-normalize-scss": "^1.4.0",
+    "postcss-assets": "^4.1.0",
+    "yargs": "^7.0.2"
+  }
+}

@@ -2,7 +2,6 @@
   "name": "clone-n-go",
   "version": "1.0.0",
   "description": "Static site boilerplate",
-  "main": "index.js",
   "author": "Michael Wegrzyn",
   "license": "MIT",
   "devDependencies": {

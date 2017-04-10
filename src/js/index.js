@@ -1,3 +1,2 @@
-var name = "grab n go";
-
+var name = "Clone-N-Go";
 console.log(name);
